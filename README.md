@@ -28,7 +28,7 @@ The system currently recognizes five predefined movement classes:
 
 | Class | Response |
 |---|---|
-| ATHE | അഥെ |
+| ATHE | അതേ |
 | SHERI | ശരി |
 | VENDA | വേണ്ട |
 | NOKKAM | നോക്കാം |
